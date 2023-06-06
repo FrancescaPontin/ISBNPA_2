@@ -7,7 +7,6 @@ dependencies:
   - python==3.8
   - seaborn
   - matplotlib==3.*
-  - descartes
   - ipywidgets
   - pip:
       - plotly
