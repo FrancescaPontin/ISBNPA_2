@@ -2,69 +2,46 @@
  
 Binder link: [https://mybinder.org/v2/gh/Leeds-CDRC/CDRC_Python_day_1/HEAD?labpath=CDRC_Python_for_Data_Analysis_1.ipynb](https://mybinder.org/v2/gh/Leeds-CDRC/CDRC_Python_day_1/HEAD?labpath=CDRC_Python_for_Data_Analysis_1.ipynb)
 
-## Materials for day 1 of the CDRC Beginner’s Python for Data Analysis course
+## Materials for the ISBNPA 'Data science for nutrition and physical activity research– an introduction to programming' <img width="1536" alt="image" src="https://github.com/FrancescaPontin/Intro_to_coding_ISBNPA/assets/32068761/c84db58a-8b8a-43f3-a97d-30eee626b8e3">
+
 
 All material created by Fran Pontin 
 
-Email:F.L.Pontin@leeds.ac.uk,
-
-Website: http://francescapontin.github.io, 
+Email: F.L.Pontin@leeds.ac.uk,
 
 Twitter:[@FrancescaPontin](https://twitter.com/FrancescaPontin)
 
 
 ## Course timetable & Content
+### 8:00-9:30: What is Python, the basics?  (1 hour 15 minutes)
+- What is programming
+- About Python as a coding
+- User interfaces language
+- Packages, modules etc.
+- Errors
+- Data types (cheat sheet)
 
-09.20: registration opens online (you will be admitted to a virtual 'lobby' initially until Fran and the team admit you to the training)
+### 9.30-9:45: Break (15 minutes)
 
-## 09:30-10.45: What is Python, the basics? Exercise 1: Getting started (1.25 hours) 
+### 9:45-11:15: Using and exploring data. (1 hour 30 minutes)
+- Importing packages
+- Reading in data (CSV)
+- Exploring data frames
+- Data summarisation
+- Data cleaning
 
-- What is programming  
-- About Python as a coding language 
-- Packages, modules etc. 
-- User interfaces 
-- Errors 
-- Data types (cheat sheet) 
+### 11.15-11.30: Break (15 minutes)
 
-10.45-11.00: Break 
+### 11.30-13.00: Data Visualisation and Statistical Analysis. (1 hour 15 minutes)
+- Why visualise data?
+- Different visualisations
+- Considering how we handle different data types differently
+- Grammar of graphics
+- Editing graphics
+- OLS regression
+- Generalised linear models
 
-## 11.00-12.30: Using and exploring data. Exercise 2: Reading in Data, data types, summarising data (1.5 hours) 
+### 13.00: Celebrate writing your first bits of Python code
 
-- Importing packages 
-- Reading in data (CSV) 
-- Exploring data frames 
-- Data summarisation  
-- Data cleaning 
-
-12.30-13.15: Lunch break 
-
-## 13.15-14.30: Data Visualisation. Exercise 3: different methods of data visualisation (1.5 hours) 
-
-- Why visualise data? 
-- Different visualisations 
-- Matplotlib and Seaborn  
-- Grammar of graphics 
-- Editing graphics 
-
-14.30-14.45: Break 
-
-## 14.45-16.00: Getting started with Python on your machine: Exercise 4 (1.5 hours) 
-
-- Installing anaconda 
-- Updates 
-- Spyder and Jupyter notebooks 
-- “Hello World” 
-- Running your own code (copied from exercise 1). 
-- Introduction to Github  
-
-## 16.00-17.00: Data manipulation and statistical analysis. Exercise 5 (1.5 hours) 
-
-- Grouping data to apply functions 
-- Considering how we handle different data types differently 
-- Time series data 
-- OLS regression 
-- Generalised linear models (for count outcomes) 
-
-17.00: Finish day 1 
 
 
