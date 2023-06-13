@@ -1,6 +1,6 @@
 # CDRC Intoduction to Python: Day 1
  
-Binder link: [https://mybinder.org/v2/gh/Leeds-CDRC/CDRC_Python_day_1/HEAD?labpath=CDRC_Python_for_Data_Analysis_1.ipynb](https://mybinder.org/v2/gh/Leeds-CDRC/CDRC_Python_day_1/HEAD?labpath=CDRC_Python_for_Data_Analysis_1.ipynb)
+Binder link: [https://mybinder.org/v2/gh/Leeds-CDRC/CDRC_Python_day_1/HEAD?labpath=CDRC_Python_for_Data_Analysis_1.ipynb](https://mybinder.org/v2/gh/FrancescaPontin/Intro_to_coding_ISBNPA/HEAD)
 
 ## Materials for the ISBNPA 'Data science for nutrition and physical activity research– an introduction to programming' <img width="1536" alt="image" src="https://github.com/FrancescaPontin/Intro_to_coding_ISBNPA/assets/32068761/c84db58a-8b8a-43f3-a97d-30eee626b8e3">
 
